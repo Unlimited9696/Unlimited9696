@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Unlimited9696/Unlimited9696/blob/main/banner1.jpg" alt="Unlimited9696 GitHub Banner" width="100%" height="300">
-</p>
+
 
 <h1 align="center">👋 Hey, I'm Nikhil Nagawade!</h1>
 
@@ -8,6 +6,8 @@
   💻 Full Stack Developer • 📱 Android App Creator • ⚙ AI Automation Enthusiast <br>
   🔥 Always learning, building, and experimenting with new ideas.
 </p>
+
+
 
 ---
 
