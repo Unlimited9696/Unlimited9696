@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Unlimited9696/Unlimited9696/blob/main/banner.jpg" alt="Unlimited9696's GitHub Banner">
+  <img src="https://github.com/Unlimited9696/Unlimited9696/blob/main/banner.jpg" alt="Unlimited9696's Banner" width="100%" height="350">
 </p>
 
 <h1 align="center">👋 Hey, I'm Nikhil Nagawade!</h1>
